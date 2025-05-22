@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm [Kais Kawar](kaiskawar.dev)!
+## 👋 Hi there, I'm [Kais Kawar](https://kaiskawar.dev/)!
 
 I'm currently working @StellarNurse as a Full Stack Software Developer.
 
