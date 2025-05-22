@@ -1,4 +1,6 @@
-## Hi there 👋
+## 👋 Hi there, I'm [Kais Kawar](kaiskawar.dev)!
+
+I'm currently working @StellarNurse as a Full Stack Software Developer.
 
 <!--
 **kais-viz/kais-viz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
