@@ -20,7 +20,7 @@ I'm a **Full Stack Data Engineer** based in **Wageningen, NL** 🇳🇱, passion
 ![Azure](https://custom-icon-badges.demolab.com/badge/Azure-007FFF?style=for-the-badge&logo=azure3&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Terraform](https://custom-icon-badges.demolab.com/badge/Terraform-5835CC?style=for-the-badge&logo=terraform&logoColor=white)
-
+![REST API](https://img.shields.io/badge/REST-API-green?style=for-the-badge&logo=fastapi)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -29,7 +29,7 @@ I'm a **Full Stack Data Engineer** based in **Wageningen, NL** 🇳🇱, passion
 
 ### Currently Learning
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-API-green?style=for-the-badge&logo=fastapi)
+
 
 ## 🤝 Let's Connect!
 
